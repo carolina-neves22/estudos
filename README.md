@@ -1,6 +1,5 @@
 # Estudos CAROL
-
-## SUB Titulo Carol
+## Sub Titulo Carol
 
 Lista da Carol
 * Item 1
